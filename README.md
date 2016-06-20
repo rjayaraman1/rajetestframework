@@ -11,7 +11,8 @@ Steps
 1. Use Eclipse (I have used MARS version) 
 2. Create a new Java Project - say rajetest
 3. Right click on the above project and  import the JAR file - Import->General->Archive file 
-4. Check the radio button "Use project folder as root for sources and class file5. For overwrite option select yes to all
+4. Check the radio button "Use project folder as root for sources and class file"
+5. For overwrite option select yes to all
 6. Verify you have got a folder structure as given in the screenshot file
 7. Right click on the imported project (rajetest) 
 8. Select Properties->Java build path->Libraries
