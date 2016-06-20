@@ -2,6 +2,7 @@ This folder contains the following:
 
 1. Runnable JAR file of automation code and source code
 2. Archive.zip with dependent libraries
+3. This README.md file
 
 Note: This code was tested in mac/Firefox version 46.0 successfully.
 
